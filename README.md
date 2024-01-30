@@ -1,5 +1,3 @@
-welcome to my first file med
-
-first change after cloning
-
-ppppppppppppppppppppp
+git add .
+$ git commit -m "Adding new line in readme"
+git push origin master
